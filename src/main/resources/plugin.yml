@@ -1,0 +1,8 @@
+api-version: 1.19
+main: kanin.rightclickharvest.RightClickHarvest
+name: RightClickHarvest
+version: 1.0-SNAPSHOT
+description: Harvest crops by simply right clicking them with a hoe!
+load: STARTUP
+softdepend:
+ - mcMMO
